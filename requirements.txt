@@ -1,0 +1,10 @@
+numpy==1.24.3
+pandas==2.0.3
+MetaTrader5==5.0.45
+python-dotenv==1.0.0
+pyyaml==6.0
+requests==2.31.0
+websocket-client==1.6.1
+ta==0.10.2
+logging-json==0.0.3
+schedule==1.2.0
